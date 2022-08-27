@@ -1,5 +1,5 @@
 # Animal Trading Card
-a web-based trading card, from my knowledge of HTML and CSS, depicted of my favorite animal.
+A web-based trading card, from my knowledge of HTML and CSS, depicted of my favorite animal.
 ## _Notes_
 
 ---
